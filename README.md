@@ -180,7 +180,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 🙋 Author
 
 **Alilo Alaedine**
-- GitHub: [@your-username](https://github.com/BoutefahaAlaeddine)
+- GitHub: [@BoutefahaAlaeddine](https://github.com/BoutefahaAlaeddine)
 
 ---
 
