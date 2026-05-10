@@ -1,7 +1,12 @@
 # Alilo Coding — Bootstrap 3 Website Template
 
 
-<img width="1905" height="903" alt="1" src="https://github.com/user-attachments/assets/e083ca1c-bea4-4970-bdf0-994a49bfdbca" />
+## 📸 Preview
+
+| Desktop View | Mobile View |
+|---|---|
+| ![Preview 1](imageGithub/1.png) | ![Preview 2](imageGithub/2.png) |
+| ![Preview 3](imageGithub/3.png) | ![Preview 4](imageGithub/4.png) |
 
 > A clean, fully responsive multi-page website template built with **Bootstrap 3**, featuring a live color theme switcher, smooth scroll animations, and a rich set of ready-to-use UI sections.
 
