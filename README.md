@@ -1,5 +1,8 @@
 # Alilo Coding — Bootstrap 3 Website Template
 
+🌐 Websites. A clean, fully responsive multi-page website template built with **Bootstrap 3**, featuring a live color theme switcher, smooth scroll animations, and a rich set of ready-to-use UI sections. Zero build tools required — open in the browser and go.
+
+---
 
 ## 📸 Preview
 
@@ -7,8 +10,6 @@
 |---|---|
 | ![Preview 1](imageGithub/1.png) | ![Preview 2](imageGithub/2.png) |
 | ![Preview 3](imageGithub/3.png) | ![Preview 4](imageGithub/4.png) |
-
-> A clean, fully responsive multi-page website template built with **Bootstrap 3**, featuring a live color theme switcher, smooth scroll animations, and a rich set of ready-to-use UI sections.
 
 ---
 
@@ -113,12 +114,12 @@ start index.html
 
 Click the **⚙️ gear icon** on the left side of the page to open the theme panel. Four color swatches are available:
 
-| Swatch | Theme File           |
-|--------|----------------------|
-| 🔴 Red    | `default_theme.css`  |
-| 🟣 Purple | `purple_theme.css`   |
-| 🔵 Blue   | `blue_theme.css`     |
-| 🟡 Yellow | `yellow_theme.css`   |
+| Swatch | Theme File |
+|---|---|
+| 🔴 Red | `default_theme.css` |
+| 🟣 Purple | `purple_theme.css` |
+| 🔵 Blue | `blue_theme.css` |
+| 🟡 Yellow | `yellow_theme.css` |
 
 To set a default theme, change the active `<link>` tag in the `<head>` of each HTML file.
 
@@ -126,11 +127,11 @@ To set a default theme, change the active `<link>` tag in the `<head>` of each H
 
 ## 📄 Pages
 
-| File          | Description                                                       |
-|---------------|-------------------------------------------------------------------|
-| `index.html`  | Full one-page layout: Hero, Features, Testimonials, Pricing, Team, Stats, Skills, Contact |
-| `about.html`  | About the company / team                                          |
-| `faq.html`    | Frequently asked questions                                        |
+| File | Description |
+|---|---|
+| `index.html` | Full one-page layout: Hero, Features, Testimonials, Pricing, Team, Stats, Skills, Contact |
+| `about.html` | About the company / team |
+| `faq.html` | Frequently asked questions |
 
 ---
 
@@ -154,13 +155,13 @@ To set a default theme, change the active `<link>` tag in the `<head>` of each H
 ## 🌐 Browser Support
 
 | Browser | Support |
-|---------|---------|
-| Chrome  | ✅ Latest |
+|---|---|
+| Chrome | ✅ Latest |
 | Firefox | ✅ Latest |
-| Safari  | ✅ Latest |
-| Edge    | ✅ Latest |
-| IE 9+   | ✅ (via html5shiv / respond.min.js) |
-| IE 8    | ⚠️ Partial (no CSS3 transitions) |
+| Safari | ✅ Latest |
+| Edge | ✅ Latest |
+| IE 9+ | ✅ (via html5shiv / respond.min.js) |
+| IE 8 | ⚠️ Partial (no CSS3 transitions) |
 
 ---
 
